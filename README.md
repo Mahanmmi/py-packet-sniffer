@@ -1,5 +1,5 @@
-##Py Packet Sniffer
-###Installation guide
+## Py Packet Sniffer
+### Installation guide
 
 Create python virtual env:
 
@@ -19,7 +19,7 @@ Install dependencies:
 python -m pip install -r requirement.txt
 ```
 
-###Usage Guide
+### Usage Guide
 Activate virtual env:
 
 ```bash
